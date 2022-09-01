@@ -1,5 +1,6 @@
 bin/modules/
 bin/platform/
+config/licence
 data/
 log/
 roles/
