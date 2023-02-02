@@ -6,3 +6,21 @@ log/
 roles/
 temp/
 
+# STS (Spring Tool Suite)
+.springBeans.new
+
+# JDT-specific (Eclipse Java Development Tools)		
+*.classpath
+
+
+# filter only custom extension
+
+bin/custom/hybrislearning/hybrislearningcore/classes
+bin/custom/hybrislearning/hybrislearningcore/gensrc
+bin/custom/hybrislearning/hybrislearningcore/web/webroot/cockpit
+bin/custom/hybrislearning/hybrislearningcore/web/webroot/WEB-INF/classes
+bin/custom/hybrislearning/hybrislearningcore/web/webroot/WEB-INF/lib
+bin/custom/hybrislearning/hybrislearningcore/web/webroot/WEB-INF/_ui-src/addons
+bin/custom/hybrislearning/hybrislearningcore/web/testclasses
+bin/custom/hybrislearning/hybrislearningcore/web/addonsrc
+#bin/custom/**/**/web/webroot/addons

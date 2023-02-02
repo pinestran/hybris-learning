@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application xmlns="http://www.zeroturnaround.com">
   <classpath>
-    <dir name="D:\training\hybris\LEARN_HYBRIS_B2C_SUITE\hybris\bin\custom\hybrislearning\hybrislearningbackoffice/backoffice/classes" />
+    <dir name="D:\training\hybris\1905\LEARN_HYBRIS_SUITE_1905\hybris\bin\custom\hybrislearning\hybrislearningbackoffice/backoffice/classes" />
   </classpath>
 </application>

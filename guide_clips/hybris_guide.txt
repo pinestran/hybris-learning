@@ -1,0 +1,152 @@
+
+=========================================================================================================
+Unit 8: Cronjob - Export Data to download ---- In-progress
+
+Part 1: Some concepts
+	- what is cronjob?
+		Some regular tasks are performed at particular and interval time to solve specific request, so we called this request is a cronjob.
+		
+	- when do we need to use cronjob?
+		When we have some tasks need to be executed repeatedly at scheduled time we will use cronjob.
+		
+	- how can implement cronjob?
+		Create cronjob model: this model likes a DTO is used to transfer data from request. Required: extends CronJob class
+		Create job class: this job class is used to process business logic by data inputted from cronjob model. Required: extends AbstractJobPerformable
+		
+Part 2: Practice
+	Requirement: Create Cronjob export product data into csv file then store in media type to download.
+	Ref: view the job of TCI project: TCICategoryExportJob
+	- Step 1: create conjob model
+		- dateExport: java.util.Date
+		- exportMedia: MediaCollection
+	
+	- Step 2: ant clean all to gen model 
+	
+	- Step 3: create class job which extends abstractJobPerformable and use our cronjob model
+
+	- Step 4: has perform get order list by date then store in csv file then save into medial collection
+
+	- Step 5: register job into spring bean which have parent is abstractJobPerformable
+
+	- Step 6: ant all -> hybrisserver.bat -> upate system (hac) (15 minutes)
+
+	- Step 7: check the job and itemtype are existed. 
+		- by query
+		select * from {servicelayerjob} where {code}='lHExportOrderJob'
+		- by BO
+		Types -> ....
+		- In case we don't find the job which define in bean, execute the impex below:
+			INSERT_UPDATE ServicelayerJob;code[unique=true];springId[unique=true]
+			;lHExportOrderJob;lHExportOrderJob
+
+	- Step 8: create and trigger cron job by one in 2 ways: by impex/ backoffice
+		 by impex:
+			# Define the cron job and the job that it wraps
+			INSERT_UPDATE LHExportOrderCronJob; code[unique=true];job(code);singleExecutable;sessionLanguage(isocode)
+			;exportOrderCronJob;lHExportOrderJob;false;en
+
+			# Define the trigger that periodically invokes the cron job
+			INSERT_UPDATE Trigger;cronjob(code)[unique=true];cronExpression
+			; exportOrderCronJob; 0 59 23 * * ?
+
+	- Step 9: Check the result whether have content media file property in ItemType -> download and verify
+
+
+=========================================================================================================
+Clip 1 | Part 1: What a Hybris ? hybris 2105 b2c accelerator installation	---- DONE
+
+Clip 1 | Part 2: Import Hybris Project into IDE (Intellij, Eclipse)			---- DONE
+
+Unit 2: Creating Custom Template											---- DONE
+
+Unit 3: Creating Custom Component											---- DONE
+
+Unit 4: Publishing a Page from Staged Mode to Online Mode					---- DONE
+
+Unit 5: Giving an Entry for Page											---- DONE
+
+Unit 6: Create Content Slot for Page | Unique Content for Page				---- DONE
+
+Unit 7: Drag, drop, move, clone component | smartgit						---- DONE
+
+
+=========================================================================================================
+
+
+
+Ex2: Create extension and add on				
+Ex3: Data type and Data modeling
+Ex4: Converter and Populator
+Ex5: Interceptor
+Ex9: Sending mail to subscriber				
+Ex10: Sending mail with attached files			
+Ex11: Create a Restfull API by OCC (Omni Commerce Connect)
+Ex12: Solr search
+
+========================================================
+https://support.sap.com/en/index.html
+	TCI: S0024396519/Thon9.Tran
+	SAI: S0024220214/Abc@123456
+
+========================================================
+## QUESTIONs
+1. How to config port and domain for hac, backoffice, storefront.
+
+	
+============================
+
+Ex8: Sending mail to subscriber
+
+Step 1: Create a JSP content form submit email --- name: SubscriberCollectionComponent ---- DONE
+	Create Form component
+		Create itemtype -> ant clean all 
+		Create JSP file
+		Create Controller -> ant -> hybrisserver.bat -> update system to load new item type
+		Verify the component -> select * from {SubscriberCollectionComponent}
+		Create impex to load component into offer page
+		Sync offer page to publish
+	
+Step 2: from controller send data to service save into dto event listener trigger send email then update status ----
+	Create method GET in controller offer page. (Q. When using the post method, always redirect to login page?)
+	Get data from form
+
+Step 3: create email template ---- 
+
+
+Step 4: using email template data to send mail 
+
+hybris [AbstractProcessContextStrategy] Failed to lookup BaseSite for BusinessProcess
+
+<bean depends-on="processContextResolutionStrategyMap" parent="mapMergeDirective">
+    <property name="key">
+       <value type="java.lang.Class">de.hybris.platform.processengine.model.BusinessProcessModel</value>
+    </property>
+    <property name="value" ref="storeFrontProcessContextStrategy"/>
+ </bean>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades">
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/web/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/web/webroot/WEB-INF/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningfacades/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorfacades" exported="" />
+    <orderEntry type="module" module-name="hybrislearningcore" exported="" />
+  </component>
+</module>

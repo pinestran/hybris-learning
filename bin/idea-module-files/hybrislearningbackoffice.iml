@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/web/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/web/webroot/WEB-INF/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningbackoffice/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../modules/backoffice-framework/backoffice/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorbackoffice" exported="" />
+    <orderEntry type="module" module-name="backoffice" exported="" />
+    <orderEntry type="module" module-name="hybrislearningcore" exported="" />
+  </component>
+</module>

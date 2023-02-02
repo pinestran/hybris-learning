@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront">
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/web/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/web/webroot/WEB-INF/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../custom/hybrislearning/hybrislearningstorefront/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="adaptivesearchsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="assistedservicecustomerinterestsaddon" exported="" />
+    <orderEntry type="module" module-name="assistedservicepromotionaddon" exported="" />
+    <orderEntry type="module" module-name="assistedservicestorefront" exported="" />
+    <orderEntry type="module" module-name="assistedserviceyprofileaddon" exported="" />
+    <orderEntry type="module" module-name="captchaaddon" exported="" />
+    <orderEntry type="module" module-name="commerceorgsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="configurablebundleaddon" exported="" />
+    <orderEntry type="module" module-name="consignmenttrackingaddon" exported="" />
+    <orderEntry type="module" module-name="customerinterestsaddon" exported="" />
+    <orderEntry type="module" module-name="customerticketingaddon" exported="" />
+    <orderEntry type="module" module-name="hybrislearningfacades" exported="" />
+    <orderEntry type="module" module-name="merchandisingaddon" exported="" />
+    <orderEntry type="module" module-name="merchandisingstorefrontsampledataaddon" exported="" />
+    <orderEntry type="module" module-name="notificationaddon" exported="" />
+    <orderEntry type="module" module-name="orderselfserviceaddon" exported="" />
+    <orderEntry type="module" module-name="pcmbackofficesamplesaddon" exported="" />
+    <orderEntry type="module" module-name="personalizationaddon" exported="" />
+    <orderEntry type="module" module-name="personalizationsearchsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="personalizationyprofilesampledataaddon" exported="" />
+    <orderEntry type="module" module-name="profiletagaddon" exported="" />
+    <orderEntry type="module" module-name="promotionenginesamplesaddon" exported="" />
+    <orderEntry type="module" module-name="smarteditaddon" exported="" />
+    <orderEntry type="module" module-name="stocknotificationaddon" exported="" />
+    <orderEntry type="module" module-name="testaddon" exported="" />
+    <orderEntry type="module" module-name="textfieldconfiguratortemplateaddon" exported="" />
+    <orderEntry type="module" module-name="xyformssamples" exported="" />
+    <orderEntry type="module" module-name="xyformsstorefrontcommons" exported="" />
+  </component>
+</module>

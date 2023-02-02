@@ -16,8 +16,9 @@
 
                                 <div class="footer__nav--container col-xs-12 col-sm-3">
                                     <c:if test="${component.wrapAfter > i.index}">
-                                        <div class="title">${fn:escapeXml(node.title)}</div>
+                                        <div class="title">${fn:escapeXml(node.title)} --- TEST</div>
                                     </c:if>
+                                    --- ${component.wrapAfter} ---- ${i.index} ----
                                     <ul class="footer__nav--links">
                                         <c:forEach items="${node.links}" var="childlink"
                                                    begin="${i.index}" end="${i.index + component.wrapAfter - 1}">

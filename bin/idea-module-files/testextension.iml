@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../custom/testextension/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../custom/testextension/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../custom/testextension">
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../custom/testextension/web/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/web/webroot/WEB-INF/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../custom/testextension/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../custom/testextension/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../custom/testextension/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../custom/testextension/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../custom/testextension/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>
